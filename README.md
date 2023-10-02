@@ -5,9 +5,10 @@
 ```shell
 $ ./build.sh
 $ cd build/
-$ ./main
+$ ./main Hello World , From Tables
 ```
 ```
+Output:
 +------+------+
 |Hello |World |
 +------+------+
