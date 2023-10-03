@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [[ $(ls build &>/dev/null) -ne 0 ]]; then
+if [[ $(ls build) -ne 0 ]]; then
 	mkdir build
 fi
 
